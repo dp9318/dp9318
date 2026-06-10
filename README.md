@@ -84,10 +84,43 @@
 
 ## 🚀 Featured Projects
 
-* 🎮 Epic Games Clone
-* 🥛 Liquid Food Purity Analyzer
-* 📈 Video Game Sales Analysis
-* 💳 Credit Card Recommendation System
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 Epic Games Clone
+
+A responsive recreation inspired by the Epic Games Store with modern UI components and interactive layouts.
+
+</td>
+
+<td width="50%">
+
+### 🥛 Liquid Food Purity Analyzer
+
+An ongoing machine learning project focused on detecting adulteration in liquid food using microscopic image analysis.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Video Game Sales Analysis
+
+Power BI dashboard analyzing more than 50 years of global video game sales data for trends and insights.
+
+</td>
+
+<td width="50%">
+
+### 💳 Credit Card Recommendation
+
+A recommendation system designed to suggest the most suitable credit cards based on user requirements.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -100,9 +133,25 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/dp9318">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add LinkedIn later -->
+
+<!-- Add Portfolio later -->
+
+</p>
+
+---
+
 <div align="center">
 
-Thanks for visiting! ⭐
+⭐ Thanks for visiting my profile!
 
 </div>
 
