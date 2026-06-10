@@ -140,16 +140,26 @@ A future machine learning project focused on detecting adulteration in liquid fo
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="center"> 
+  <a href="https://github.com/dp9318" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a> 
+  
+  <a href="www.linkedin.com/in/dipankar-kumar-95bab1234" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  
+  <a href="https://leetcode.com/u/Dipankar9318/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/> 
+  </a> 
+  
+  <a href="https://www.hackerrank.com/profile/dipankarkumar626" target="_blank"> 
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> 
+  </a> 
 
-<a href="https://github.com/dp9318">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add LinkedIn later -->
-
-<!-- Add Portfolio later -->
-
+  <a href="https://www.instagram.com/dp_9318/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
+  </a>
 </p>
 
 ---
