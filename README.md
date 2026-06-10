@@ -8,7 +8,9 @@
 
 <!-- Banner goes here later -->
 
-<img src="./assets/Banner.png" alt="Banner" width="100%">
+<p align="center">
+  <img src="assets/Banner.png" alt="Dipankar Banner" width="100%">
+</p>
 
 </div>
 
