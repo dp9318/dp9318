@@ -22,8 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <!-- Stats will be added here -->
 <div align="center">
 
