@@ -1,30 +1,43 @@
 <div align="center">
-
-# DIPANKAR
-
-### Building • Learning • Creating
-
-<p align="center">
   <img src="assets/Banner.png" alt="Dipankar Banner" width="100%">
-</p>
-
 </div>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-* 🎓 MCA Student at MANIT Bhopal
-* ☕ Primarily working with Java
-* 🤖 Exploring Machine Learning and AI
-* 🌐 Building Web Development projects
-* 📊 Interested in Data Analytics and Visualization
+<div align="center">
+
+🎓 MCA Student at MANIT Bhopal
+
+☕ Java as my primary language
+
+🤖 Exploring Machine Learning & AI
+
+🌐 Building modern web applications
+
+📊 Passionate about Data Analytics & Visualization
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <!-- Stats will be added here -->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dp9318&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp9318&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
