@@ -48,6 +48,17 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
+
+[Java] [Python] [C++]
+
+### 🌐 Web
+
+[HTML] [CSS] [JavaScript]
+
+### 📊 Data & Tools
+
+[SQL] [Power BI]
 <!-- Shiny badges will go here -->
 <p align="center">
 
