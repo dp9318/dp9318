@@ -8,21 +8,21 @@
 
 <div align="center">
 
-🎓 MCA Student at MANIT Bhopal
+• 🎓 MCA Student at MANIT Bhopal
 
-☕ Java as my primary language
+• ☕ Java as my primary language
 
-🤖 Exploring Machine Learning & AI
+• 🤖 Exploring Machine Learning & AI
 
-🌐 Building modern web applications
+• 🌐 Building modern web applications
 
-📊 Passionate about Data Analytics & Visualization
+• 📊 Passionate about Data Analytics & Visualization
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Development Insights
 
 <!-- Stats will be added here -->
 <div align="center">
@@ -33,12 +33,6 @@
 />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dp9318&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp9318&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -56,7 +50,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
 
@@ -68,7 +62,7 @@
 
 </p>
 
-### 🌐 Web
+<h3 align="center">🌐 Web</h3>
 
 <p align="center">
 
@@ -80,7 +74,7 @@
 
 </p>
 
-### 📊 Data & Tools
+<h3 align="center">📊 Data & Tools</h3>
 
 <p align="center">
 
@@ -138,10 +132,17 @@ A recommendation system designed to suggest the most suitable credit cards based
 
 ## 🎯 Current Focus
 
-* Strengthening DSA in Java
-* Building production-quality projects
-* Learning Machine Learning
-* Preparing for internships
+<div align="center">
+
+🎯 Strengthening DSA in Java
+
+🚀 Building production-quality projects
+
+🤖 Learning Machine Learning
+
+💼 Preparing for internships
+
+</div>
 
 ---
 
