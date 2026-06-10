@@ -17,10 +17,24 @@
 ## 📊 GitHub Analytics
 
 <!-- Stats will be added here -->
-<p align="center"> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&hide_title=true&hide_rank=true" /> 
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dp9318&theme=tokyonight&hide_border=true&border_radius=15" /> </p>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&hide_title=true&hide_rank=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dp9318&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 Activity 
