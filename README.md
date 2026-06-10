@@ -22,18 +22,17 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <!-- Stats will be added here -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&hide_title=true&hide_rank=true"
+/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dp9318&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dp9318&theme=tokyo-night&hide_border=true&radius=15"/>
 
 </div>
 
@@ -43,6 +42,15 @@
 
 </div>
 
+---
+
+## 📊 Activity 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dp9318&theme=tokyo-night&hide_border=true&radius=15"/>
+
+</div>
 
 ---
 
@@ -50,35 +58,39 @@
 
 ### 💻 Languages
 
-[Java] [Python] [C++]
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+</p>
 
 ### 🌐 Web
 
-[HTML] [CSS] [JavaScript]
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
 
 ### 📊 Data & Tools
 
-[SQL] [Power BI]
-<!-- Shiny badges will go here -->
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
+
+<!-- Shiny badges will go here -->
 
 ---
 
