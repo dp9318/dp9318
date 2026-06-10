@@ -24,18 +24,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dp9318&theme=tokyo-night&hide_border=true&radius=15"/>
-
-</div>
-  
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&hide_title=true&hide_rank=true"
-/>
-
-
-
 ---
 
 ## 📊 Activity 
