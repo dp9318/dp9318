@@ -6,16 +6,11 @@
 
 <h2>🚀 About Me</h2>
 
-
 - 🎓 MCA Student at MANIT Bhopal
-  
-- ☕ Java as my primary language
-  
-- 🤖 Exploring Machine Learning & AI
-  
-- 🌐 Building modern web applications
-  
-- 📊 Passionate about Data Analytics & Visualization
+- ☕ Java-first developer with a strong computer science foundation
+- 🤖 Exploring Machine Learning and Artificial Intelligence
+- 🌐 Building modern web applications and Android projects
+- 📊 Passionate about data analytics and visualization
 
 ---
 
@@ -91,7 +86,7 @@
 <tr>
 <td width="50%">
 
-### 🎮 [Epic Games Clone](https://github.com/dp9318/Epic-Games-Clone)
+### 🎮 [Epic Games Clone](https://github.com/dp9318/Epic-Games-Clone)  <p align="right>🟡 In Progress</p>
 
 A pixel-inspired recreation of the Epic Games Store built to explore responsive layouts, component architecture, and modern frontend development practices.
 
@@ -99,7 +94,7 @@ A pixel-inspired recreation of the Epic Games Store built to explore responsive 
 
 <td>
 
-### 🌍 [Quake Report](https://github.com/dp9318/Quake-Report)
+### 🌍 [Quake Report](https://github.com/dp9318/Quake-Report)  <p align="right>🟢 Completed</p>
 
 An Android application built in Java that fetches real-time earthquake data from the USGS API and displays it in a clean, animated list interface with detailed event information.
   
@@ -111,7 +106,7 @@ An Android application built in Java that fetches real-time earthquake data from
 
 <td width="50%">
 
-### 📊 [Video Game Sales Analysis](https://github.com/dp9318/Game-Sales-Analysis-1971-2024-)
+### 📊 [Video Game Sales Analysis](https://github.com/dp9318/Game-Sales-Analysis-1971-2024-)  <p align="right>🟢 Completed</p>
 
 Power BI dashboard analyzing more than 50 years of global video game sales data for trends and insights.
 
@@ -119,7 +114,7 @@ Power BI dashboard analyzing more than 50 years of global video game sales data 
 
 <td width="50%">
 
-### 🥛 [Liquid Food Purity Analyzer(planned)](https://github.com/dp9318/Liquid-Food-Analyzer)
+### 🥛 [Liquid Food Purity Analyzer(planned)](https://github.com/dp9318/Liquid-Food-Analyzer)  <p align="right>🔵 Planned</p>
 
 A future machine learning project focused on detecting adulteration in liquid food using microscopic image analysis and computer vision techniques.
 
@@ -133,11 +128,8 @@ A future machine learning project focused on detecting adulteration in liquid fo
 ## 🎯 Current Focus
 
 - 🎯 Strengthening DSA in Java
-
 - 🚀 Building production-quality projects
-
 - 🤖 Learning Machine Learning
-
 - 💼 Preparing for internships
 
 ---
@@ -160,7 +152,6 @@ A future machine learning project focused on detecting adulteration in liquid fo
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by! Feel free to explore my projects and connect with me.
 
 </div>
-
