@@ -86,7 +86,8 @@
 <tr>
 <td width="50%">
 
-### 🎮 [Epic Games Clone](https://github.com/dp9318/Epic-Games-Clone)  <p align="right>🟡 In Progress</p>
+### 🎮 [Epic Games Clone](https://github.com/dp9318/Epic-Games-Clone) 
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 A pixel-inspired recreation of the Epic Games Store built to explore responsive layouts, component architecture, and modern frontend development practices.
 
@@ -94,7 +95,8 @@ A pixel-inspired recreation of the Epic Games Store built to explore responsive 
 
 <td>
 
-### 🌍 [Quake Report](https://github.com/dp9318/Quake-Report)  <p align="right>🟢 Completed</p>
+### 🌍 [Quake Report](https://github.com/dp9318/Quake-Report)  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 An Android application built in Java that fetches real-time earthquake data from the USGS API and displays it in a clean, animated list interface with detailed event information.
   
@@ -106,7 +108,8 @@ An Android application built in Java that fetches real-time earthquake data from
 
 <td width="50%">
 
-### 📊 [Video Game Sales Analysis](https://github.com/dp9318/Game-Sales-Analysis-1971-2024-)  <p align="right>🟢 Completed</p>
+### 📊 [Video Game Sales Analysis](https://github.com/dp9318/Game-Sales-Analysis-1971-2024-) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Power BI dashboard analyzing more than 50 years of global video game sales data for trends and insights.
 
@@ -114,7 +117,8 @@ Power BI dashboard analyzing more than 50 years of global video game sales data 
 
 <td width="50%">
 
-### 🥛 [Liquid Food Purity Analyzer(planned)](https://github.com/dp9318/Liquid-Food-Analyzer)  <p align="right>🔵 Planned</p>
+### 🥛 [Liquid Food Purity Analyzer(planned)](https://github.com/dp9318/Liquid-Food-Analyzer) 
+![Status](https://img.shields.io/badge/Status-Planned-blue)
 
 A future machine learning project focused on detecting adulteration in liquid food using microscopic image analysis and computer vision techniques.
 
