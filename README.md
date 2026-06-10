@@ -17,13 +17,11 @@
 ## 📊 GitHub Analytics
 
 <!-- Stats will be added here -->
-<div align="center">
+<div>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=dp9318&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&hide_title=true&hide_rank=true"
 />
-
-<br><br>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=dp9318&theme=tokyonight&hide_border=true&border_radius=15"
