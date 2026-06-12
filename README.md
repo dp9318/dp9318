@@ -139,7 +139,7 @@ A future machine learning project focused on detecting adulteration in liquid fo
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
   </a> 
   
-  <a href="www.linkedin.com/in/dipankar-kumar-95bab1234" target="_blank"> 
+  <a href="https://www.linkedin.com/in/dipankar-kumar-95bab1234/" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a> 
   
