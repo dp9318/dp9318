@@ -51,6 +51,8 @@ to solve real problems.
 
 <h3>🧠 <a href="https://github.com/dp9318/RECALL">RECALL</a></h3>
 
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen" alt="Completed">
+
 <b>Persistent memory engine for AI coding agents</b>
 
 RECALL helps AI coding agents retain useful project context across sessions. It brings together persistent memory, context retrieval, custom-instruction precedence, MCP integration, and a separate web dashboard.
