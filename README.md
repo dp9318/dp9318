@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/Banner_new_sept_2026.png" alt="Dipankar Banner" width="100%">
+  <img src="assets/Banner_2026.png" alt="Dipankar Banner" width="100%">
 </div>
 
 ---
