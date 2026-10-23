@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/Banner_2026.png" alt="Dipankar Kumar — Software Development and AI Integration" width="100%">
-
+  
   <h1>Hi, I'm Dipankar 👋</h1>
   <p><strong>MCA Student @ MANIT Bhopal · Software Engineering · AI-Integrated Systems</strong></p>
 
@@ -10,6 +9,9 @@
     <img src="https://img.shields.io/badge/Exploring-AI%20Agent%20Infrastructure-7c3aed?style=flat-square" alt="Exploring AI agent infrastructure">
     <img src="https://img.shields.io/badge/Building%20for-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Building for Windows">
   </p>
+
+  <img src="assets/Banner_2026.png" alt="Dipankar Kumar — Software Development and AI Integration" width="100%">
+  
 </div>
 
 ---
