@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Dipankar&fontSize=40&fontAlignY=35&animation=twinkling" alt="wave header" width="100%"/>
-  <h1>Hi, I'm Dipankar 👋</h1>
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&lines=Software+Engineering+%26+AI+Integration;Building+RECALL%3A+Persistent+Memory+for+AI+Coding+Agents;Learning+C%23+%26+.NET+for+Windows-Native+Apps" alt="Software engineering, RECALL, and Windows development" />
   </p>
